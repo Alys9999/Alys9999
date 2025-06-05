@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Alys9999
-- 👀 I’m interested in front side 
-- 🌱 I’m currently learning java
 - 📫 How to reach me 41v1rj@gmail.com
 
 <!---
